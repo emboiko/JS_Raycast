@@ -7,4 +7,6 @@ http://js-raycast.herokuapp.com/
 </div>
 <br>
 
-This application uses a traditional game loop & raycasting to achieve a pseudo-3D "map". Made with [p5.js]() and some trigonometry.
+This application uses a traditional game loop & raycasting to achieve a pseudo-3D "map". Made with [p5.js](https://p5js.org/) and some trigonometry. Use the arrow keys to move forward, back, left & right.
+
+An implementation in C with textures & improved controls can be found [here](https://github.com/emboiko/C_Raycast)
