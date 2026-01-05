@@ -5,7 +5,7 @@
 </div>
 <br>
 
-[Live Demo](http://js-raycast.herokuapp.com/)
+[Live Demo](https://js-raycast-b6a9a6ff6db1.herokuapp.com/)
 
 Browser-based raycasting that renders a pseudo-3D environment using traditional raycasting algorithms. This project demonstrates how raycasting can be used to create a first-person perspective view of a 2D grid-based map, similar to classic games like Wolfenstein 3D.
 
