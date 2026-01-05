@@ -1,14 +1,19 @@
 {
   "name": "raycast",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple raycasting demo using p5.js",
   "main": "index.js",
   "scripts": {
-      "start":"node index.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^5.1.0",
+    "p5": "^1.11.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
   }
 }
