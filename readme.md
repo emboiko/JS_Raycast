@@ -45,4 +45,4 @@ Browser-based raycasting that renders a pseudo-3D environment using traditional 
 
 ### Related Projects
 
-A more thorough implementation in C featuring rudimentary textures & improved keyboard controls can be found [here](https://github.com/emboiko/C_Raycast).
+A more thorough implementation in C featuring rudimentary textures can be found [here](https://github.com/emboiko/C_Raycast).
